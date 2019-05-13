@@ -15,4 +15,4 @@ e
 
 ## INFO:
 >1. Tool Used : Power BI
->2. Process Followed : Data Extraction, Data Visualization and Busiess Intelligence
+>2. Process Followed : Data Loading, Data Visualization and Busiess Intelligence
