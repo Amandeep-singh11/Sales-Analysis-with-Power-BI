@@ -11,8 +11,9 @@ products to people and to business across a variety of sales channels, to make e
 This Repository contains
 
 >1. Power BI Files - Power BI files for all different analysis
+>2. Tableau Files -  Tableau files for all different analysis
 e
 
 ## INFO:
->1. Tool Used : Power BI
+>1. Tool Used : Tableau, Power BI
 >2. Process Followed : Data Loading, Data Visualization and Busiess Intelligence
