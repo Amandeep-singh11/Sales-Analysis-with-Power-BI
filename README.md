@@ -1,5 +1,5 @@
 ## Topic:
-Sales Analysis with Power BI
+Sales Analysis with Tableau & Power BI
 
 
 ## Introduction:
